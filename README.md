@@ -1,4 +1,4 @@
-# Fradulent transaction detector
+# Fraudulent Transaction Detector
 
 ## Problem Statement
 Most of the time, a pattern for fraud transactions cannot be observed in credit card transactions; 
